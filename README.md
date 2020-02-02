@@ -1,6 +1,6 @@
-# eShop
-ASP.Net Core MVC Project for online shopping/eCommerce
-This project contains source code for ASP.Net Core MVC project which is explained at https://logixn.com/asp-net-core-mvc-project
+# eShop Project
+ASP.Net Core MVC Project for online shopping/eCommerce.
+This project contains source code for ASP.Net Core MVC project which is explained at https://logixn.com/asp-net-core-mvc-project .
 This project has been explained step by step and below are other URLs:
 
 ASP.Net Core MVC Project Part 2 (https://logixn.com/asp-net-core-mvc-project-part-2)
